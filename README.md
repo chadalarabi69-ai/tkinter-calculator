@@ -9,13 +9,13 @@ Ermöglicht die Grundrechenarten *(Addition, Subtraktion, Multiplikation, Divisi
 - 🔢 **Tasten** für Zahlen und Rechenoperationen  
 - 🧹 **C-Taste** zum Löschen der Eingaben  
 - ✅ **=-Taste** zur Berechnung des Ergebnisses  
-- ⚠️ Zeigt **"Error"** bei fehlerhaften Eingaben an  
+- ⚠️ Zeigt **"Error"** bei fehlerhaften Eingaben an 
 
 ---
 
 ## 🖼️ Screenshot
 
-![Tkinter Rechner Screenshot](screenshot.png)
+![Tkinter Rechner Screenshot](screenshot.png.jpg)
 
 ---
 
